@@ -169,7 +169,7 @@ For some message types, in later client versions the message type changed to a 5
 | 2076 | [MsgQuench](msgquench.md) |  |
 | 2077 | [MsgItemStatus](msgitemstatus.md) |  |
 | 2078 | [MsgUserIPInfo](msguseripinfo.md) |  |
-| 2079 | [MsgServerInfo](msgserverinfo.md) |  |
+| 2079 | [MsgServerInfo](msgserverinfo.md) | Set a client global defining the server type |
 | 2080 | [MsgChangeName](msgchangename.md) |  |
 | 2081 | [MsgDeadMark](msgdeadmark.md) |  |
 | 2082 | [MsgUserCityInfo](msgusercityinfo.md) |  |

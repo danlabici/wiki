@@ -330,6 +330,7 @@
 - [Features](features/README.md)
     - [Enthrallment](features/enthrallment.md)
     - [Nobility](features/nobility.md)
+    - [Portals](features/portals.md)
     - [VIP](features/vip.md)
 
 - [Renderers](renderers/README.md)
