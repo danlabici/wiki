@@ -255,6 +255,7 @@
         - [MsgShowHandLostInfo](network/messages/msgshowhandlostinfo.md)
         - [MsgShowHandOnlineStatus](network/messages/msgshowhandonlinestatus.md)
         - [MsgShowHandTrusteeship](network/messages/msgshowhandtrusteeship.md)
+        - [MsgSignIn](network/messages/msgsignin.md)
         - [MsgSlotAction](network/messages/msgslotaction.md)
         - [MsgSlotResult](network/messages/msgslotresult.md)
         - [MsgSolidify](network/messages/msgsolidify.md)
