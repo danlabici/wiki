@@ -93,7 +93,7 @@ Most item actions are initiated by the player. Each request expects a response o
 |:------|:--------|:--------|:--------|:--------|:--------|
 | 1 | BUY | Purchase from shop | Server | [NPC](../identifiers.md) | [Item Type](../../files/content/itemtype.dat.md) |
 | 2 | SELL | Sell to shop | Server | [NPC](../identifiers.md) | [Item ID](../identifiers.md) |
-| 3 | DROP | Drops an item or removes it | Server | [Item](../identifiers.md) | `LOW:` X `HIGH:` Y 🔶 |
+| 3 | DROP | Drops an item or removes it | Server | [Item](../identifiers.md) | `HIGH:` X `LOW:` Y 🔶 |
 | 4 | EQUIP | Equip to position on body | Server | [Item](../identifiers.md) | [Position](msgiteminfo.md#item-position) |
 | 5 | UPDATE | Updates an item | Client | [Item](../identifiers.md) | [Position](msgiteminfo.md#item-position) |
 | 6 | UNEQUIP | Force unequip | Client | [Item](../identifiers.md) | [Position](msgiteminfo.md#item-position) |
