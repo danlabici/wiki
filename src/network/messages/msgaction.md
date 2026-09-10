@@ -86,7 +86,7 @@ MsgAction is used for a variety of actions, such as configuring the client durin
 
 | Pos | Type | Name | Description | Example |
 |:-------|:--------|:--------|:--------|:--------|
-| 0  | UInt16 | [MsgSize](index.md#message-header) | Size of the message | 24 |
+| 0  | UInt16 | [MsgSize](index.md#message-header) | Size of the message | 32 |
 | 2  | UInt16 | [MsgType](index.md#message-header) | Type of message | 1010 |
 | 4  | UInt32 | [System Time](../timestamp.md) | Milliseconds of system uptime | 1579535985 |
 | 8  | UInt32 | [Hero ID](../identifiers.md) | Unique identifier for the character | 1000000 |
